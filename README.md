@@ -1,2 +1,2 @@
 # Riya-s-git
-First 
+print("hello world")
